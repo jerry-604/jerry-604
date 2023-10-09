@@ -19,8 +19,7 @@ Hello there! I'm Jeremiah, a passionate software developer with a keen interest 
 - [Instagram](https://www.instagram.com/jerry.lewa/)
 
 ## 📈 GitHub Stats
-![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-604&show_icons=true&theme=radical)
-
+![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry-604&count_private=true&show_icons=true&cache_seconds=0)
 
 ## 📫 How to reach me:
 Feel free to drop me an [email](mailto:jeremiahomolewa.work@gmail.com) or connect with me on any of the platforms above. I'm always open to collaborations, discussions, or just a friendly chat!
