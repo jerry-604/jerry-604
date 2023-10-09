@@ -1,5 +1,6 @@
 
 # Jeremiah (Jerry) Omolewa 🚀
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jerry.lewa)](https://www.instagram.com/jerry.lewa)
 
 Hello there! I'm Jeremiah, a passionate software developer with a keen interest in full-stack web development, product management, and open-source contributions. I'm always eager to learn, collaborate, and contribute to meaningful projects.
 
