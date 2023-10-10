@@ -15,7 +15,7 @@ Hello there! I'm Jeremiah, a passionate software developer with a keen interest 
 
 ## 🌐 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/jeremiah-omolewa)
-- [Website](https://jeremiahomolewa.vercel.app)
+- [Website](https://jeremiahomolewa.com)
 - [Instagram](https://www.instagram.com/jerry.lewa/)
 
 ## 📫 How to reach me:
